@@ -1,0 +1,14 @@
+.intro__text {
+    list-style: none;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-left: 0;
+}
+@media screen and (min-width:375px){
+    .intro__text {
+      font-size: 13px;}
+    }

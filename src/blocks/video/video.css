@@ -1,0 +1,6 @@
+@import url('../video/__container/video__container.css');
+.video {
+    padding-bottom: 10%;
+    width: 90%;
+    margin: auto;
+}

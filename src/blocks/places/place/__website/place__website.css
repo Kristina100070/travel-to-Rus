@@ -1,0 +1,29 @@
+.place__website {
+    display: none;
+}
+@media screen and (min-width:768px) {
+
+    .place__website{
+        max-width: 484px;
+        display: grid;
+    }
+    .place__url-heading {
+        margin-bottom: 16px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 20px;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+    .place__url {
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 30px;
+        text-decoration-line: underline;
+        color: #FFFFFF;
+    }
+}  

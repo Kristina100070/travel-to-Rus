@@ -1,0 +1,6 @@
+@import url('../comments/__container/comments__container.css');
+.comments {
+    padding-bottom: 10%;
+    width: 90%;
+    margin: auto;
+}
