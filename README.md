@@ -1,7 +1,7 @@
 # Путишествия по России
 
 
-[Ссылка](https://kristina100070.github.io/travel-to-Russia/)
+[Ссылка](https://kristina100070.github.io/travel-to-Rus/)
 
 Одностраничный адаптивный сайт, в котором применены основные интсрументы HTML и CSS, в том числе flex и grid
 
